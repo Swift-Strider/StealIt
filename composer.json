@@ -1,0 +1,22 @@
+{
+    "$schema": "https://getcomposer.org/schema.json",
+
+    "name": "diamondstrider1/steal-it",
+    "description": "Steal (or copy) the item in a player's hand.",
+    "type": "project",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "DiamondStrider1",
+            "email": "62265561+Swift-Strider@users.noreply.github.com"
+        }
+    ],
+
+    "require": {
+		"pocketmine/pocketmine-mp": "4.0.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.6"
+    }
+}
