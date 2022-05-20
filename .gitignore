@@ -1,3 +1,5 @@
+# Composer
 /vendor/
 
+# PhpStan
 /phpstan.neon

@@ -3,4 +3,4 @@ branches:
 - main
 projects:
   StealIt:
-    path: ""
+    path: "plugin"
