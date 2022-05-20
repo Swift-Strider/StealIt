@@ -18,5 +18,9 @@
     },
     "require-dev": {
         "phpstan/phpstan": "^1.6"
+    },
+
+    "scripts": {
+        "phpstan": "vendor/bin/phpstan analyze -c phpstan.neon"
     }
 }
