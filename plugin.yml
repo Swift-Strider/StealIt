@@ -4,3 +4,11 @@ author: DiamondStrider1
 main: DiamondStrider1\StealIt\Plugin
 version: 1.0.0
 api: 4.0.0
+
+permissions:
+  stealit.stealhand:
+    default: op
+    description: remove held item of a player and give it to one's self
+  stealit.copyhand:
+    default: op
+    description: copy held item of a player and give it to one's self
