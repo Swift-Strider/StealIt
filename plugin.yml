@@ -1,0 +1,6 @@
+name: StealIt
+author: DiamondStrider1
+
+main: DiamondStrider1\StealIt\Plugin
+version: 1.0.0
+api: 4.0.0
